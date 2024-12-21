@@ -46,7 +46,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-Right-click the "Start" menu and click on run. Type "gpmc.msc" to open the Group Policy Management console. Navigate to the Group Policy Object section, 
+Right-click the "Start" menu and click on run. Type "gpmc.msc" to open the Group Policy Management console. Navigate to the Default Group Policy section. 
 
 </p>
 <br />
