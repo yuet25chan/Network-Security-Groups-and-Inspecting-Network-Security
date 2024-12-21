@@ -34,7 +34,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/fa6bb10c-3a42-4de2-b67d-0905c8e61903)
+
 </p>
 <p>
 Get logged into dc-1. Pick a random user account you created previously and attempt to log in with it 10 times with a bad password. 
