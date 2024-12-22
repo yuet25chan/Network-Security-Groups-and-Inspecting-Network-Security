@@ -54,10 +54,13 @@ Right-click the "Start" menu and click on "Run". Type "gpmc.msc" to open the Gro
   
 ![image](https://github.com/user-attachments/assets/da8fc31c-c17b-4fe4-9ed8-99a8f6c624eb)
 
+![image](https://github.com/user-attachments/assets/36c9de5d-21ea-4f1c-9776-1a09f784f7e3)
+
+
 
 </p>
 <p>
-In the Group Policy Management Editor, expand the following: Computer Configuration --> Policies --> Windows Settings --> Account Policies --> Account Lockout Policies 
+In the Group Policy Management Editor, expand the following: Computer Configuration --> Policies --> Windows Settings --> Account Policies --> Account Lockout Policies.  
 </p>
 <br />
 
