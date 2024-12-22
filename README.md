@@ -101,7 +101,7 @@ Configure the account lockout threshold.
 
 <p>
 
-Allow Administrator account lockout. 
+Enable Administrator account lockout. 
 
 </p>
 <br />
