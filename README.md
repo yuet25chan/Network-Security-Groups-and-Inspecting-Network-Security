@@ -79,4 +79,16 @@ In the Group Policy Management Editor, expand the following: Computer Configurat
 Set Account Lockout Duration to 30 minutes. 
 
 </p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/f9d0d8e1-634a-4488-b23a-78e7f8af1aff)
+
+</p>
+
+<p>
+
+Configure the account lockout threshold. 
+</p>
+
 <br />
