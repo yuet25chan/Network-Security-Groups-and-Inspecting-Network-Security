@@ -104,4 +104,10 @@ Configure the account lockout threshold.
 Enable Administrator account lockout. 
 
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/65cb3744-bb1d-4471-a81f-e98a94f7f31f)
+
+</p>
 <br />
