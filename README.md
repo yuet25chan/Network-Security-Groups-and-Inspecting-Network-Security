@@ -89,6 +89,19 @@ Set Account Lockout Duration to 30 minutes.
 <p>
 
 Configure the account lockout threshold. 
+
 </p>
 
+
+<p>
+
+![image](https://github.com/user-attachments/assets/b998b93a-32fa-4658-b8fa-b83788ece103)
+
+<p/>
+
+<p>
+
+Allow Administrator account lockout. 
+
+</p>
 <br />
