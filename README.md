@@ -56,6 +56,7 @@ Right-click the "Start" menu and click on "Run". Type "gpmc.msc" to open the Gro
 
 ![image](https://github.com/user-attachments/assets/36c9de5d-21ea-4f1c-9776-1a09f784f7e3)
 
+![image](https://github.com/user-attachments/assets/2004aa0f-81a3-45b2-b172-0d359ee6dc9b)
 
 
 </p>
