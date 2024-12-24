@@ -152,3 +152,21 @@ Enter "result \r" in the Command Line as administrator to verify if the group po
 I logged in to the client account babe.mexo with a false password for five times. The account ended up being locked out. 
 
 </p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/5ebcc9be-ed0e-480f-ad99-16e5b483b729)
+
+![image](https://github.com/user-attachments/assets/4f4749ab-afab-4f8e-bca8-4bbd04ea4694)
+
+![image](https://github.com/user-attachments/assets/43ec5ac9-fec6-4e10-9167-017fe9d27db1)
+
+
+
+</p>
+
+<p>
+
+To unlock the client account, log in to the domain controller. Open Active Directory Users and Computers, right-click "mydomain.com" and select "Find." Search for "babe.mexo". Once the account pops up, right-click it and select "Properties" from the menu. Navigate to the "Account" tab and check "Unlock account". Log back into the account with the default password "Password1."
+
+</p>
