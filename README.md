@@ -130,6 +130,7 @@ To force the Group Policy Update, log into client-1 and enter "gpupdate \force" 
   
 ![image](https://github.com/user-attachments/assets/23a99db5-35e4-4fa3-83f2-915a369b1f7e)
 
+![image](https://github.com/user-attachments/assets/f66a4c9e-e516-4276-a3dd-f801b7e859dd)
 
 </p>
 
