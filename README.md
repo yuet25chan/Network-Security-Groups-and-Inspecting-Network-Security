@@ -111,3 +111,5 @@ Enable Administrator account lockout.
 
 </p>
 <br />
+
+<h2> Force the Group Policy from Client-1 </h2>
