@@ -1,4 +1,4 @@
-# Network-Security-Groups-and-Inspecting-Network-Security
+a# Network-Security-Groups-and-Inspecting-Network-Security
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
@@ -141,3 +141,14 @@ Enter "result \r" in the Command Line as administrator to verify if the group po
 </p>
 
 <h2> Observe the Group Policy </h2>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/91647efb-cdb4-4c6d-8dd7-5ea44cd1134a)
+
+</p>
+
+<p>
+I logged in to the client account babe.mexo with a false password for five times. The account ended up being locked out. 
+
+</p>
