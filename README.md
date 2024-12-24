@@ -112,4 +112,14 @@ Enable Administrator account lockout.
 </p>
 <br />
 
-<h2> Force the Group Policy from Client-1 </h2>
+<h2> Force the Group Policy Update from Client-1 </h2>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/2a021545-7eaa-4e6e-9d18-c628270905d8)
+
+</p>
+
+<p>
+To force the Group Policy Update, log into client-1 and enter "gpupdate \force" in the Command Line. 
+</p>
