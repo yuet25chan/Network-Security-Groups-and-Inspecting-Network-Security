@@ -170,3 +170,10 @@ I logged in to the client account babe.mexo with a false password for five times
 To unlock the client account, log in to the domain controller. Open Active Directory Users and Computers, right-click "mydomain.com" and select "Find." Search for "babe.mexo". Once the account pops up, right-click it and select "Properties" from the menu. Navigate to the "Account" tab and check "Unlock account". Log back into the account with the default password "Password1."
 
 </p>
+
+![image](https://github.com/user-attachments/assets/df60d511-bf73-4019-a068-567a9280f0aa)
+
+![image](https://github.com/user-attachments/assets/c51482a6-f59f-4a10-b2ad-f4eadade9aa4)
+
+
+<p>
