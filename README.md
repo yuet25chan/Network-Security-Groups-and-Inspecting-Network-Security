@@ -123,5 +123,17 @@ Enable Administrator account lockout.
 </p>
 
 <p>
-To force the Group Policy Update, log into client-1 and enter "gpupdate \force" in the Command Line. 
+To force the Group Policy Update, log into client-1 and enter "gpupdate \force" in the Command Line.
+</p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/23a99db5-35e4-4fa3-83f2-915a369b1f7e)
+
+
+</p>
+
+<p>
+
+Enter "result \r" in the Command Line as administrator to verify if the group policy has been successfully updated. 
 </p>
