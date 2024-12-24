@@ -137,4 +137,7 @@ To force the Group Policy Update, log into client-1 and enter "gpupdate \force" 
 <p>
 
 Enter "result \r" in the Command Line as administrator to verify if the group policy has been successfully updated. 
+
 </p>
+
+<h2> Observe the Group Policy </h2>
