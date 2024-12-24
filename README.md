@@ -118,6 +118,8 @@ Enable Administrator account lockout.
 
 ![image](https://github.com/user-attachments/assets/2a021545-7eaa-4e6e-9d18-c628270905d8)
 
+![image](https://github.com/user-attachments/assets/1cfcd449-e607-47cb-8877-28da3576c91d)
+
 </p>
 
 <p>
