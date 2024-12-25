@@ -175,5 +175,6 @@ To unlock the client account, log in to the domain controller. Open Active Direc
 
 ![image](https://github.com/user-attachments/assets/c51482a6-f59f-4a10-b2ad-f4eadade9aa4)
 
-
 <p>
+
+</br>
