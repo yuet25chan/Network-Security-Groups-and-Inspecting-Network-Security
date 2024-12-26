@@ -193,3 +193,13 @@ Reset password.
 <p>
 In Active Directory Users and Computers, right-click "mydomain.com" and select "Find" from the menu. Search for "babe.mexo". Once this account pops up, right-click it and select "Disable Account."
 </p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/f6660ed8-b122-4ecd-9281-34db4168d83f)
+
+</p>
+
+<p>
+Attempt to log into client-1 with the account "babe.mexo". The login will not be successful, and you will get a message saying the account has been disabled. 
+</p>
