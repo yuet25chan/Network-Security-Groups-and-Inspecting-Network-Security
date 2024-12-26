@@ -203,3 +203,25 @@ In Active Directory Users and Computers, right-click "mydomain.com" and select "
 <p>
 Attempt to log into client-1 with the account "babe.mexo". The login will not be successful, and you will get a message saying the account has been disabled. 
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/52295e5e-f689-4126-a883-c76bcf53f20c)
+
+</p>
+
+<p>
+Log back into dc-1 to enable the account "babe.mexo".
+
+</P>
+
+![image](https://github.com/user-attachments/assets/b07a3adf-085a-4cef-88f1-708ae8b7ad25)
+
+<p>
+
+
+</p>
+
+You will be able to log into "babe.mexo" again.  
+
+</p>
