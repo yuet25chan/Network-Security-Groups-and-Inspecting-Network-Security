@@ -177,4 +177,19 @@ To unlock the client account, log in to the domain controller. Open Active Direc
 
 <p>
 
+<p>
+Reset password. 
+</P>
 </br>
+<p>
+  
+![image](https://github.com/user-attachments/assets/c8c35dcf-f2d4-4c44-9bf7-55640e6b1799)
+
+![image](https://github.com/user-attachments/assets/bc8ec419-f436-41fd-9127-05f1b082067e)
+
+
+</p>
+
+<p>
+In Active Directory Users and Computers, right-click "mydomain.com" and select "Find" from the menu. Search for "babe.mexo". Once this account pops up, right-click it and select "Disable Account."
+</p>
