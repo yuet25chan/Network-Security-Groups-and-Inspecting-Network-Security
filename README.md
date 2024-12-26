@@ -225,3 +225,20 @@ Log back into dc-1 to enable the account "babe.mexo".
 You will be able to log into "babe.mexo" again.  
 
 </p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/78fa8d06-3482-4bbc-97d8-c177c62768de)
+
+</P>
+
+<p>
+Open Event Viewer as an administrator from client-1. 
+
+</p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/7561016a-9ff1-4ed8-9383-80b67bc3dfee)
+
+</p>
